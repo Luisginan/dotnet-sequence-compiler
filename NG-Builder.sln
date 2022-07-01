@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NG-Builder", "NG-Builder\NG-Builder.csproj", "{58027CA1-75A0-4328-9820-B24B63A2B907}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NGE-Tool-Lib", "lib\NGE-Tool-Lib\NGE-Tool-Lib.csproj", "{C448844B-BAF4-4E3D-B658-7ACD35578266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58027CA1-75A0-4328-9820-B24B63A2B907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58027CA1-75A0-4328-9820-B24B63A2B907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58027CA1-75A0-4328-9820-B24B63A2B907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58027CA1-75A0-4328-9820-B24B63A2B907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C448844B-BAF4-4E3D-B658-7ACD35578266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C448844B-BAF4-4E3D-B658-7ACD35578266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C448844B-BAF4-4E3D-B658-7ACD35578266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C448844B-BAF4-4E3D-B658-7ACD35578266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54ABBAF8-A1E0-42C5-87C6-09930E4B2F00}
+	EndGlobalSection
+EndGlobal
